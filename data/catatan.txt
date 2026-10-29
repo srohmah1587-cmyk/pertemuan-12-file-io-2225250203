@@ -1,0 +1,4 @@
+Catatan:
+- Baris A004 dilewati karena nilai tidak valid.
+- Baris kosong dilewati.
+- Batas kelulusan adalah nilai >= 60.

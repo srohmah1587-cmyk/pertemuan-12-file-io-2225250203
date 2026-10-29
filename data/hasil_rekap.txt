@@ -1,0 +1,18 @@
+REKAP NILAI MAHASISWA
+=====================
+
+Jumlah data valid : 9
+Jumlah mahasiswa lulus : 6
+Jumlah mahasiswa tidak lulus : 3
+
+DAFTAR NILAI
+------------
+A001,85,Lulus
+A002,78,Lulus
+A003,92,Lulus
+A005,60,Lulus
+A006,45,Tidak Lulus
+A007,80,Lulus
+A008,90,Lulus
+A009,55,Tidak Lulus
+A010,75,Lulus
