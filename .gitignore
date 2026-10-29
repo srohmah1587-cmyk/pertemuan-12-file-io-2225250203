@@ -1,0 +1,37 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Konfigurasi editor
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File log
+*.log
+
+# File sementara
+*.tmp
+*.bak
+*~
+
+# Hasil pengujian otomatis
+.coverage
+htmlcov/
+
+# File hasil rekap
+# data/hasil_rekap.txt
+
+# Folder output
+# output/*
+# !output/.gitkeep
